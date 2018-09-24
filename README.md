@@ -13,5 +13,5 @@ You can use the project code to create your own face recognition applet. Before 
 ```
 FaceFile: tore photos that have been tagged. Note that the photo should be named after the user name, for example, jack.jpg
 FaceRecognition: Save the XML file for OpenCV face detection
-## if you like this project please give me a star! thaks
+## if you like this project please give me a star! thanks
 # :) 
